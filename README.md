@@ -1,3 +1,2 @@
 # CSC-461-Project
-
-Different application use of multimedia system
+# Different application use of multimedia system
