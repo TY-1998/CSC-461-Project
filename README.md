@@ -38,6 +38,16 @@ https://bitmovin.com/mpeg-dash-youtube-netflix-html5/
 
 # Project Update  
 
+sorting info based on 3 main type and add more application \
+
+Video: \
+zoom compression \
+Youtube compression \
+
+Image: \
+twitter compression \
+
+Audio: \
 
 
 # Project Demo
