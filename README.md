@@ -51,7 +51,7 @@ deviantart compression support? [6]\
 instagram compression [8] \
 
 Audio: \
-cloudfare compression [4]
+cloudfare compression [4] \
 spotify, amazon music, apple music, youtube music, and more audio app compression [5]
 
 
