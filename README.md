@@ -25,10 +25,10 @@ Report finding                                                                  
 Project Website: 
 https://github.com/TY-1998/CSC-461-Project
 
-Relevant Papers: <br />
+Relevant Papers: \
 [1] Zoom compression,
-https://medium.com/@vsachdeva/zoom-video-conf-tool-at-scale-e86289c290b8#:~:text=Bitrate%20Encoding&text=So%20Zoom%20chose%20to%20use,Advanced%20Video%20Coding(AVC). <br />
-[2] What size image on social networks: FaceBook, Twitter, Instagram, Welko,https://www.welko.fr/guide-taille-images-reseaux-sociaux/#:~:text=Taille%20d'image%20pour%20Tweet,pixels%20(ratio%201%2F1) <br />
+https://medium.com/@vsachdeva/zoom-video-conf-tool-at-scale-e86289c290b8#:~:text=Bitrate%20Encoding&text=So%20Zoom%20chose%20to%20use,Advanced%20Video%20Coding(AVC). \
+[2] What size image on social networks: FaceBook, Twitter, Instagram, Welko,https://www.welko.fr/guide-taille-images-reseaux-sociaux/#:~:text=Taille%20d'image%20pour%20Tweet,pixels%20(ratio%201%2F1) \
 [3] Why youtube & netflix use MPEG-DASH,
 https://bitmovin.com/mpeg-dash-youtube-netflix-html5/ 
 
