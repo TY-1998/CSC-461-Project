@@ -38,16 +38,28 @@ https://bitmovin.com/mpeg-dash-youtube-netflix-html5/
 
 # Project Update  
 
-sorting info based on 3 main type and add more application \
+sorting info based on 3 main type and add more application 
 
 Video: \
 zoom compression \
-Youtube compression \
+Youtube + netflix compression \
+instagram compression [7]
 
 Image: \
 twitter compression \
+deviantart compression support? [6]\
+instagram compression [8] \
 
 Audio: \
+cloudfare compression [4]
+spotify, amazon music, apple music, youtube music, and more audio app compression [5]
+
+
+[4] https://developers.cloudflare.com/speed/optimization/content/brotli/content-compression/#:~:text=Cloudflare's%20global%20network%20can%20deliver,the%20Accept%2DEncoding%20request%20header. \
+[5] https://www.soundguys.com/amazon-music-hd-vs-spotify-premium-36684/ \
+[6] https://www.deviantartsupport.com/en/article/what-file-types-can-i-submit-to-deviantart \
+[7] https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction/#:~:text=We%20generate%20two%20types%20of,technologies%20for%20higher%2Dquality%20playback. \
+[8] https://mikewalterz.com/uploading-to-instagram-without-losing-image-quality/
 
 
 # Project Demo
