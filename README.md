@@ -38,7 +38,8 @@ https://bitmovin.com/mpeg-dash-youtube-netflix-html5/
 
 # Project Update  
 
-sorting info based on 3 main type and add more application 
+19/10/23 sorting info based on 3 main type and add more application. \
+30/10/23 Problem while research: As expected there isn't much infomation about compression and transmission. Most of the information are from a blog and not the official website. Any information for transmission is even harder to find than compression, if there is any on the internet at all.
 
 Video: \
 zoom compression \
