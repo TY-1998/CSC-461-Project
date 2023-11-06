@@ -16,10 +16,10 @@ Our approach:
  We plan to gather as much information as we can from the internet, research paper, and our own experience on each of the applications. This is so we can organize and compare all the data to summarize in detail each major application strength and weakness in their chosen method of compression and transmission.
 
 Deliverables:
-Search and sort different source                                                                 Oct 09 - Oct 23
-Research and gather information                                                                  Oct 23 - Nov 06 
-Written out the information found into the paper		                                             Nov 06 - Nov 20
-Summarise and formatted the information       		                                               Nov 20 - Dec 04
+Search and sort different source                                                                 Oct 09 - Oct 23 \
+Research and gather information                                                                  Oct 23 - Nov 06 \
+Written out the information found into the paper		                                             Nov 06 - Nov 20 \
+Summarise and formatted the information       		                                               Nov 20 - Dec 04 \
 Report finding                                                                                   Dec 04 - Dec 11 
 
 Project Website: 
