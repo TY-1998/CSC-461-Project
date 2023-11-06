@@ -4,6 +4,8 @@
 
 # Project Proposal
 
+google docs link: https://docs.google.com/document/d/1N4SBMdKAvrr7ON49lckyzPpO_9IOFT5nHALe6zXKxS0/edit?usp=sharing
+
 Team Member: Yu Tang, Saifa Leechitcham
 
 Problem definition: Different application usage of multimedia system
@@ -38,18 +40,22 @@ https://bitmovin.com/mpeg-dash-youtube-netflix-html5/
 
 # Project Update  
 
+project update link: https://docs.google.com/document/d/13EZUL3mRVgnrN3OyEJRl8BV2PqiFjX82fXWMqZ5PVJo/edit?usp=sharing
+
 19/10/23 sorting info based on 3 main type and add more application. \
 30/10/23 Problem while research: As expected there isn't much infomation about compression and transmission. Most of the information are from a blog and not the official website. Any information for transmission is even harder to find than compression, if there is any on the internet at all.
 
 Video: \
 zoom compression \
 Youtube + netflix compression \
-instagram compression [7]
+instagram compression [7] \
+vimeo compression [9]
 
 Image: \
 twitter compression \
 deviantart compression support? [6]\
 instagram compression [8] \
+imgur compression [10]
 
 Audio: \
 cloudfare compression [4] \
@@ -60,7 +66,9 @@ spotify, amazon music, apple music, youtube music, and more audio app compressio
 [5] https://www.soundguys.com/amazon-music-hd-vs-spotify-premium-36684/ \
 [6] https://www.deviantartsupport.com/en/article/what-file-types-can-i-submit-to-deviantart \
 [7] https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction/#:~:text=We%20generate%20two%20types%20of,technologies%20for%20higher%2Dquality%20playback. \
-[8] https://mikewalterz.com/uploading-to-instagram-without-losing-image-quality/
+[8] https://mikewalterz.com/uploading-to-instagram-without-losing-image-quality/ \
+[9] https://help.vimeo.com/hc/en-us/articles/12426982098449-Video-compression-settings-on-Vimeo-OTT \
+[10] https://help.imgur.com/hc/en-us/articles/115000083326-What-files-can-I-upload-Is-there-a-size-limit-
 
 
 # Project Demo
