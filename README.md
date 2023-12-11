@@ -76,6 +76,9 @@ spotify, amazon music, apple music, youtube music, and more audio app compressio
 
 # Project Demo
 
-
+https://drive.google.com/file/d/169yZG2UHpCZuiG-cgB_3bw086I474trV/view?usp=drive_link
 
 # Project Report 
+
+Final report: https://docs.google.com/document/d/1JDQXjg-dYb9dSWTL-CFeIglvWjJCT0yIcN8EewvSPnQ/edit?usp=sharing \
+contribution doc: https://docs.google.com/document/d/1dQEfRKR4yfd2JMz20X3Fmb4MsCIrkeUhds5U174Eou0/edit?usp=sharing
